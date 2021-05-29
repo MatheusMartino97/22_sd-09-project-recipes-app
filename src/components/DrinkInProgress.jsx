@@ -56,7 +56,7 @@ function DrinkInProgress() {
       setAllIngrdients(ingredients);
     };
     getIngredients();
-  }, [idRecipe, recipe]);
+  }, [idRecipe, ingredientsDone, recipe]);
 
   const isDisabled = Object.values(progress).every((ingr) => ingr === true);
 
