@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/repo_name/22_sd-09-project-recipes-app/static/css/main.8acf6358.chunk.css",
+    "main.js": "/repo_name/22_sd-09-project-recipes-app/static/js/main.161457b6.chunk.js",
+    "main.js.map": "/repo_name/22_sd-09-project-recipes-app/static/js/main.161457b6.chunk.js.map",
+    "runtime-main.js": "/repo_name/22_sd-09-project-recipes-app/static/js/runtime-main.1a922f6d.js",
+    "runtime-main.js.map": "/repo_name/22_sd-09-project-recipes-app/static/js/runtime-main.1a922f6d.js.map",
+    "static/css/2.09f6b2fc.chunk.css": "/repo_name/22_sd-09-project-recipes-app/static/css/2.09f6b2fc.chunk.css",
+    "static/js/2.d0730d29.chunk.js": "/repo_name/22_sd-09-project-recipes-app/static/js/2.d0730d29.chunk.js",
+    "static/js/2.d0730d29.chunk.js.map": "/repo_name/22_sd-09-project-recipes-app/static/js/2.d0730d29.chunk.js.map",
+    "index.html": "/repo_name/22_sd-09-project-recipes-app/index.html",
+    "precache-manifest.746042cf3d1c7f62841c633f453616d6.js": "/repo_name/22_sd-09-project-recipes-app/precache-manifest.746042cf3d1c7f62841c633f453616d6.js",
+    "service-worker.js": "/repo_name/22_sd-09-project-recipes-app/service-worker.js",
+    "static/css/2.09f6b2fc.chunk.css.map": "/repo_name/22_sd-09-project-recipes-app/static/css/2.09f6b2fc.chunk.css.map",
+    "static/css/main.8acf6358.chunk.css.map": "/repo_name/22_sd-09-project-recipes-app/static/css/main.8acf6358.chunk.css.map",
+    "static/js/2.d0730d29.chunk.js.LICENSE.txt": "/repo_name/22_sd-09-project-recipes-app/static/js/2.d0730d29.chunk.js.LICENSE.txt",
+    "static/media/YouChef.png": "/repo_name/22_sd-09-project-recipes-app/static/media/YouChef.751d2a05.png",
+    "static/media/blackHeartIcon.svg": "/repo_name/22_sd-09-project-recipes-app/static/media/blackHeartIcon.b8913346.svg",
+    "static/media/drinkIcon.svg": "/repo_name/22_sd-09-project-recipes-app/static/media/drinkIcon.f87c47c3.svg",
+    "static/media/exploreIcon.svg": "/repo_name/22_sd-09-project-recipes-app/static/media/exploreIcon.157945ff.svg",
+    "static/media/mealIcon.svg": "/repo_name/22_sd-09-project-recipes-app/static/media/mealIcon.b27ba19e.svg",
+    "static/media/profileIcon.svg": "/repo_name/22_sd-09-project-recipes-app/static/media/profileIcon.74e487e5.svg",
+    "static/media/styles.css": "/repo_name/22_sd-09-project-recipes-app/static/media/revicons.2feb69cc.eot",
+    "static/media/searchIcon.svg": "/repo_name/22_sd-09-project-recipes-app/static/media/searchIcon.db812135.svg",
+    "static/media/shareIcon.svg": "/repo_name/22_sd-09-project-recipes-app/static/media/shareIcon.06215ed4.svg",
+    "static/media/whiteHeartIcon.svg": "/repo_name/22_sd-09-project-recipes-app/static/media/whiteHeartIcon.ea3b6ba8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a922f6d.js",
+    "static/css/2.09f6b2fc.chunk.css",
+    "static/js/2.d0730d29.chunk.js",
+    "static/css/main.8acf6358.chunk.css",
+    "static/js/main.161457b6.chunk.js"
+  ]
+}
