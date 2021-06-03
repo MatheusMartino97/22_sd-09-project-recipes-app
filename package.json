@@ -2,7 +2,7 @@
   "name": "recipes-app-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://MatheusMartino97.github.io/repo_name/22_sd-09-project-recipes-app/",
+  "homepage": "https://MatheusMartino97.github.io/22_sd-09-project-recipes-app/",
   "dependencies": {
     "@sheerun/mutationobserver-shim": "^0.3.3",
     "@testing-library/jest-dom": "^4.2.4",
